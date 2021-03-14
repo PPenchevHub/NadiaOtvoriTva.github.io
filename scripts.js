@@ -43,8 +43,8 @@ $(function() {
 				values+= message[i].value;
 				
 				switch(message[i].value) {
-			  case "beti":
-				document.getElementById("display_message1").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/nsHRc8tUIK0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer;clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+			  case "алин":
+				document.getElementById("display_message1").innerHTML = '<iframe width="1156" height="632" src="https://www.youtube.com/embed/Wg62IkUAs8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 			  case "nedi":
 				document.getElementById("display_message2").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
