@@ -44,10 +44,10 @@ $(function() {
 				
 				switch(message[i].value) {
 			  case "алин":
-				document.getElementById("display_message1").innerHTML = '<iframe width="1156" height="632" src="https://www.youtube.com/embed/Wg62IkUAs8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				document.getElementById("display_message1").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/Wg62IkUAs8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-			  case "nedi":
-				document.getElementById("display_message2").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+			  case "бети":
+				document.getElementById("display_message2").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/6IPd6SUMXXU?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 			   case "eli":
 				document.getElementById("display_message3").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
