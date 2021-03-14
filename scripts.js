@@ -56,25 +56,34 @@ $(function() {
 				document.getElementById("display_message4").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/C50f9bVKSQw?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 				 case "ани":
-				document.getElementById("display_message5").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/cqO2d_9EFPo?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				document.getElementById("display_message5").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/cqO2d_9EFPo?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-				 case "fani":
-				document.getElementById("display_message6").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				 case "кери":
+				document.getElementById("display_message6").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/Dy1Tp9ml9fQ?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-				 case "neva":
-				document.getElementById("display_message7").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				 case "нева":
+				document.getElementById("display_message7").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/JWoF83MFHns?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-				 case "ani":
-				document.getElementById("display_message8").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				 case "пешо":
+				document.getElementById("display_message8").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/wJgDebw802M?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-				 case "simona":
-				document.getElementById("display_message9").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				 case "ели":
+				document.getElementById("display_message9").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/gJ25a00Kd0o?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-				 case "hido":
-				document.getElementById("display_message10").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				 case "габи":
+				document.getElementById("display_message10").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/VDQOCjjf93s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-				 case "iwo":
-				document.getElementById("display_message11").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				 case "фани":
+				document.getElementById("display_message11").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/Q8sw26hc1YA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				break;
+				 case "пламена":
+				document.getElementById("display_message12").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/tj7gHlY5NIc?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				break;
+				 case "пеца":
+				document.getElementById("display_message13").innerHTML = '<iframe width="200" height="200" src="https://www.youtube.com/embed/WszH9VaJdbA?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				break;
+				 case "фани":
+				document.getElementById("display_message14").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/Q8sw26hc1YA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 			  default:
 				//document.getElementById("display_message12").innerHTML = 'Try again';
