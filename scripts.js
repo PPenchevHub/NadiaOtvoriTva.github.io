@@ -49,14 +49,14 @@ $(function() {
 			  case "бети":
 				document.getElementById("display_message2").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/6IPd6SUMXXU?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-			   case "eli":
-				document.getElementById("display_message3").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+			   case "иво":
+				document.getElementById("display_message3").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/MYhl4vFnTEA?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-				 case "gabi":
-				document.getElementById("display_message4").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				 case "неди":
+				document.getElementById("display_message4").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/C50f9bVKSQw?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
-				 case "sonq":
-				document.getElementById("display_message5").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				 case "ани":
+				document.getElementById("display_message5").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/cqO2d_9EFPo?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 				 case "fani":
 				document.getElementById("display_message6").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/e-GqvWZKvq0?list=RDnsHRc8tUIK0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
