@@ -86,7 +86,7 @@ $(function() {
 				document.getElementById("display_message15").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/C5pO3TfpcCo?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 				 case "соня":
-				document.getElementById("display_message14").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/k1Fj1fR_r_o?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				document.getElementById("display_message14").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/k1Fj1fR_r_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 				 case "дори":
 				document.getElementById("display_message16").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/AsEgoG_h5oQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
