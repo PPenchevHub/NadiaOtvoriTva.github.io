@@ -80,7 +80,7 @@ $(function() {
 				document.getElementById("display_message12").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/tj7gHlY5NIc?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 				 case "пеца":
-				document.getElementById("display_message13").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/WszH9VaJdbA?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+				document.getElementById("display_message13").innerHTML = '<iframe width="200" height="100" src="https://www.youtube.com/embed/WszH9VaJdbA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
 				 case "доби":
 				document.getElementById("display_message15").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/C5pO3TfpcCo?list=PLD9-JbMGWf9OsFfErqlfBMv_Ss5FUELlX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
