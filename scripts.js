@@ -36,7 +36,6 @@ $(function() {
 			
 		  function showMessage(){
             var message = document.getElementsByClassName("message");
-			console.log(message);
 					
 				var values= '';
 			for(var i=0; i<message.length; i++) {
