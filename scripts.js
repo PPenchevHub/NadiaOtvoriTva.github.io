@@ -41,7 +41,7 @@ $(function() {
 			for(var i=0; i<message.length; i++) {
 				values+= message[i].value;
 				
-				switch(message[i].value) {
+				switch(message[i].value.toLowerCase()) {
 			  case "алин":
 				document.getElementById("display_message1").innerHTML = '<iframe width="300" height="200" src="https://www.youtube.com/embed/Wg62IkUAs8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 				break;
